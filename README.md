@@ -11,4 +11,6 @@ The Ramen Bar Restaurant
 
 •	Recommendations, including:
    My recomendations, based in what I know about that place, which I am one of in charge there, so I am basically doing amost everything, either counting the money, or ordering deliveries and many other things that is part of my job is:
-    Specifically about Cloud computing, I can say about the way that we archive the statement from each day. Of course we have a accountant, whose takes all the document, invoices, everything. however, in the end of each day, after counting the money, we need to send the statement by WhatsApp to the owner. My point is, if 
+    Specifically about Cloud computing, I can say about the way that we archive the statement from each day. Of course we have a accountant, whose takes all the document, invoices, everything. however, in the end of each day, after counting the money, we need to send the statement by WhatsApp to the owner. My point is, we could have a cloud computing system that we could just upload all information each day, with not only the money sheet, but also if all the deliveries company invoices that we use.
+    
+    To conclude my report, I will say that a cloud system would be a great solution for the restaurant to make easy to gather all information that is useful to check the finances from the shop.
